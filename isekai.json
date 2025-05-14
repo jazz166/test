@@ -1,0 +1,17 @@
+{
+  "id": "isekai",
+  "name": "Isekai",
+  "category": "Anime Collection",
+  "catalogIds": [],
+  "displayMode": "Grid",
+  "layout": "Poster",
+  "backgroundImageURL": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/10-best-isekai-anime-with-incredible-plots.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5",
+  "iconName": "film",
+  "showIcon": false,
+  "nameDisplayMode": "Hidden",
+  "mediaTypeFilter": "All Content",
+  "textSize": "Large",
+  "textWeight": "Bold",
+  "textColor": "#FFFFFF",
+  "backgroundColor": "#000000"
+}
