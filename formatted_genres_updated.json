@@ -1,0 +1,53 @@
+[
+  {
+    "id": "action-genre",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://i.postimg.cc/CMvkvWYX/Action.avif",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "comedy-genre",
+    "name": "Comedy",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://i.postimg.cc/kgynsdPt/Comedy.avif",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "documentaries-genre",
+    "name": "Documentaries",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://i.postimg.cc/fW6TTKvk/Documentary.avif",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
