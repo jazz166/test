@@ -2,52 +2,66 @@
   {
     "id": "action-genre",
     "name": "Action",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Landscape",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://i.postimg.cc/CMvkvWYX/Action.avif",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
+    "backgroundImageURL": "https://i.ibb.co/B5hYq8C2/Action.jpg"
+  },
+  {
+    "id": "adventure-genre",
+    "name": "Adventure",
+    "backgroundImageURL": "https://i.ibb.co/ZpmTZb4y/Adventure.jpg"
+  },
+  {
+    "id": "animation-genre",
+    "name": "Animation",
+    "backgroundImageURL": "https://i.ibb.co/HpCftCjP/Animation.jpg"
   },
   {
     "id": "comedy-genre",
     "name": "Comedy",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Landscape",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://i.postimg.cc/kgynsdPt/Comedy.avif",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
+    "backgroundImageURL": "https://i.ibb.co/21zr9x7t/Comedy.jpg"
   },
   {
-    "id": "documentaries-genre",
+    "id": "documentary-genre",
     "name": "Documentaries",
-    "category": "Genres",
-    "catalogIds": [],
-    "displayMode": "Grid",
-    "layout": "Landscape",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://i.postimg.cc/fW6TTKvk/Documentary.avif",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
+    "backgroundImageURL": "https://i.ibb.co/gbyX7VBn/Documentary.jpg"
+  },
+  {
+    "id": "drama-genre",
+    "name": "Drama",
+    "backgroundImageURL": "https://i.ibb.co/bjnPXfWK/Drama.jpg"
+  },
+  {
+    "id": "family-genre",
+    "name": "Family",
+    "backgroundImageURL": "https://i.ibb.co/wFS6yZMk/Family.jpg"
+  },
+  {
+    "id": "history-genre",
+    "name": "History",
+    "backgroundImageURL": "https://i.ibb.co/Lz6gpMv6/History.jpg"
+  },
+  {
+    "id": "horror-genre",
+    "name": "Horror",
+    "backgroundImageURL": "https://i.ibb.co/LzZMYCSc/Horror.jpg"
+  },
+  {
+    "id": "reality-tv-genre",
+    "name": "Reality TV",
+    "backgroundImageURL": "https://i.ibb.co/7x9B3YXH/Reality-TV.jpg"
+  },
+  {
+    "id": "romance-genre",
+    "name": "Romance",
+    "backgroundImageURL": "https://i.ibb.co/KpC4kDyH/Romance.jpg"
+  },
+  {
+    "id": "thriller-genre",
+    "name": "Thriller",
+    "backgroundImageURL": "https://i.ibb.co/k6SxW0dK/Thriller.jpg"
+  },
+  {
+    "id": "war-genre",
+    "name": "War",
+    "backgroundImageURL": "https://i.ibb.co/SXhB2mK5/WAR.jpg"
   }
 ]
