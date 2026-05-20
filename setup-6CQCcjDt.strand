@@ -1,0 +1,1000 @@
+{
+  "version": 1,
+  "addons": [],
+  "shelves": [
+    {
+      "id": "1A06B89E-1D91-4131-9787-798791E364FF",
+      "title": "Discover 🔍✨",
+      "style": "collections_row",
+      "sortOrder": 0,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Discover 🔍✨",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "F0311964-7838-4BDD-89A0-319A59DB5C92",
+                "title": "Latest Release",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.2472",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/xd7RHS0J/DERNIERS-AJOUTS(4).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "780FCC5B-7EE6-4F4A-A712-4E09CE338BB4",
+                "title": "Popular",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "movie",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.13541",
+                        "catalogName": ""
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.13542",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/j5L10XjG/DERNIERS-AJOUTS(1).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "9EFB0205-7E84-4C22-A128-24A16548E68F",
+                "title": "Dubbed Only",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.24814",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fLFtbwfH/DERNIERS-AJOUTS(6).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "EAEA9B5A-2F83-46AD-8AA9-4D7AEDA4E385",
+                "title": "Most Watched",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "movie",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.13576",
+                        "catalogName": ""
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.13575",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/ydkG4PNG/DERNIERS-AJOUTS(2).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "A3C14A24-51E6-4A16-A383-7E2A94CB04CD",
+                "title": "Upcoming",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158702",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/k4BH3c5h/DERNIERS-AJOUTS(3).png",
+                "focusGifEnabled": false
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": true,
+            "pinToTop": false,
+            "viewMode": "TABBED_GRID"
+          }
+        }
+      },
+      "isEnabled": true
+    },
+    {
+      "id": "BD1A1D47-C4C5-46AD-B784-BE77E5C9B9B8",
+      "title": "Studios",
+      "style": "collections_row",
+      "sortOrder": 1,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Studios",
+            "tileShape": "square",
+            "contentSources": [
+              {
+                "id": "94852994-23FC-4779-BDCF-9FFF523F58B2",
+                "title": "A-1 Pictures",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103378",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.ibb.co/Xr0QMNDD/st-small-507x507-pad-600x600-f8f8f8.jpg",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "43DC8B90-2D58-4882-AB02-8C9E2AF907DF",
+                "title": "Mad House",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103385",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.ibb.co/RGtzJNTd/31-400.webp",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "0AC791FC-F729-4516-86F4-52B38CF73A96",
+                "title": "Studio Pierrot",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103384",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://ih1.redbubble.net/image.5221021342.6521/st,small,507x507-pad,600x600,f8f8f8.webp",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "61194967-8FC7-4FCA-A0EB-DA3D6050CC0C",
+                "title": "Ufotable Studio",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103382",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://api.duniagames.co.id/api/content//upload/file/3168418521757742014.png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "44ED97C0-56B1-458C-BF14-9514B58B070A",
+                "title": "Production I.G",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103387",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://ih1.redbubble.net/image.5213991999.5502/st,medium,507x507-pad,600x600,f8f8f8.webp",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "F9B1C015-2996-4580-B26B-9A2073A2F6E2",
+                "title": "Wit Studio",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "anime",
+                        "baseUrl": "",
+                        "catalogId": "mal.discover.anime.wit_studio.moj6a8u2",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://images.teepublic.com/derived/production/designs/21226254_0/1618872599/i_m:pid_2834,c_s_auto,bc_ffffff,s_630,q_90.jpg",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "957197A8-8047-430E-BB9F-2C475C24F688",
+                "title": "Kyoto Animation",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103383",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://www.animeclick.it/prove/img_tmp/50103.jpg",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "82E53D47-3E48-4E54-ADD4-1FBA6A31F76A",
+                "title": "Bones Studio",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103388",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://animateusaonlineshop.com/cdn/shop/collections/bones_collection.jpg?v=1642339752",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "F829D281-DF7C-472F-BEF4-D4CC24180E7D",
+                "title": "Mappa Studio",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103386",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZfCOzvaa4Y1nY3CIiwc70X1YpQvhh6qn0w&s",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "7C621335-E834-4EB4-955B-23EEDC110239",
+                "title": "Toei Animation Studio",
+                "tileShape": "square",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.103381",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://pbs.twimg.com/media/G5A_3hvXsAA4ojA.jpg",
+                "focusGifEnabled": false
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": true,
+            "pinToTop": false,
+            "viewMode": "TABBED_GRID"
+          }
+        }
+      },
+      "isEnabled": true
+    },
+    {
+      "id": "1614B3B5-DC1C-47CB-8283-9296876FA0CE",
+      "title": "Genre",
+      "style": "collections_row",
+      "sortOrder": 2,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Genre",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "0F606978-6330-4289-BE05-D7672DF8D4B1",
+                "title": "Action",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.6871",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.ibb.co/6JbDHCSn/ACTION-1.png",
+                "focusGifEnabled": true
+              },
+              {
+                "id": "1FBDE1B7-08BA-4C9B-B487-718175A72507",
+                "title": "Adventure",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.6870",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/7h7wDD68/ACTION(3).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "FFA9AB24-C7F8-45D4-8682-E7B6F2588F4B",
+                "title": "Comedy",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.6928",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/4ytsZZ3j/ACTION(2).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "04E6864E-14B3-45C7-B746-E9BCF1EBDDF9",
+                "title": "Drama",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.8532",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/fyXDZZb6/ACTION(4).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "20A71D7F-C6D4-4C3E-BF06-A36E269AAD53",
+                "title": "Horror",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.43303",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Hn5dHHLK/ACTION(5).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "5A9AF71D-F22D-49E0-B3B8-EEB6415592FD",
+                "title": "Shounen",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158514",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/L5XFbtf7/ACTION(10).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "F99EB55F-08EC-4925-B01D-BF77561EEE98",
+                "title": "Slice Of Life",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "anime",
+                        "baseUrl": "",
+                        "catalogId": "anilist.discover.anime.slice_of_life_anilist.momy937p",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/vB1Z1wqk/ACTION(14).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "6BD14E75-8CBC-486C-8EF9-32B42117E5F9",
+                "title": "Mecha",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "movie",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.98352",
+                        "catalogName": ""
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.10296",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/xCs18TPD/ACTION(11).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "9211F3C4-B89A-4193-AC99-E2AE2A86EC73",
+                "title": "Isekai",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.95975",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/HkWXPjvf/ACTION(9).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "901F1D85-AD15-4606-B3EF-4AAD45AE312B",
+                "title": "Seinen",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158516",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/wvWjMTQS/ACTION(12).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "348D26E5-A8ED-4CC6-8A42-6C99C4CE023F",
+                "title": "Shoujo",
+                "tileShape": "wide",
+                "hideTitle": false,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.79491",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/V6McQfH8/ACTION(15).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "7C97D847-D70F-400F-BE7F-F5F7D3637557",
+                "title": "Donghua",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "movie",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.73330",
+                        "catalogName": ""
+                      }
+                    }
+                  },
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.73326",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/yNY3V9n8/ACTION.png",
+                "focusGifEnabled": false
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": false,
+            "pinToTop": false,
+            "viewMode": "TABBED_GRID"
+          }
+        }
+      },
+      "isEnabled": true
+    },
+    {
+      "id": "C6516F71-0D10-45B8-93BF-E08F251AD544",
+      "title": "Seasonal Anime",
+      "style": "collections_row",
+      "sortOrder": 3,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Seasonal Anime",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "BB19525D-1E83-43B7-AF75-561C6434B378",
+                "title": "Winter",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158520",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/FRNj0FMs/ACTION(7).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "9A271C7E-B946-48BD-A9DE-406CC1A7ED6B",
+                "title": "Spring",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.139688",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/7Lg3CJWT/ACTION(8).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "5CEABC38-ECE5-43BA-8F21-BD955DF74943",
+                "title": "Summer",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158518",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/SKW6XYvY/ACTION(9).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "3618D7EA-0881-4FFF-B575-CD1D62B4EA40",
+                "title": "Fall",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.158519",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/q78st653/ACTION(10).png",
+                "focusGifEnabled": false
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": false,
+            "focusGlowEnabled": false,
+            "pinToTop": false,
+            "viewMode": "TABBED_GRID"
+          }
+        }
+      },
+      "isEnabled": true
+    },
+    {
+      "id": "8C73539E-0DCB-45FC-8EC4-16B8F67ACE0B",
+      "title": "Decades",
+      "style": "collections_row",
+      "sortOrder": 4,
+      "source": {
+        "group": {
+          "_0": {
+            "title": "Decades",
+            "tileShape": "wide",
+            "contentSources": [
+              {
+                "id": "288D8BD1-7D29-4F2C-ADC2-E6B6393725FA",
+                "title": "1960s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25246",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/0534D0JB/DERNIERS-AJOUTS(3).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "96C30BE7-5773-45C6-B949-75FA815B6E05",
+                "title": "1970s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25245",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/gJ3xsD2s/DERNIERS-AJOUTS(1).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "905C9C5A-C53E-4530-B0EF-1ADE561E5C6F",
+                "title": "1980s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25244",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/Sscndrxr/DERNIERS-AJOUTS(2).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "85F82504-55C4-413A-9D48-A0FC858939C8",
+                "title": "1990s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25243",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/bwfPw9TG/DERNIERS-AJOUTS(1).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "20A8E107-629D-40FD-B646-044E4307A65C",
+                "title": "2000s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25242",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/tg18d12Q/DERNIERS-AJOUTS(2).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "B973C08C-E94E-49F9-9E63-7F9763AC1A45",
+                "title": "2010s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25241",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/MTBTLpZ3/DERNIERS-AJOUTS(4).png",
+                "focusGifEnabled": false
+              },
+              {
+                "id": "D4677A78-D88F-4562-A185-F13DE1DA252B",
+                "title": "2020s",
+                "tileShape": "wide",
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "addonCatalog": {
+                      "_0": {
+                        "addonId": "aio-metadata",
+                        "addonName": "AIOMetadata",
+                        "type": "series",
+                        "baseUrl": "",
+                        "catalogId": "mdblist.25240",
+                        "catalogName": ""
+                      }
+                    }
+                  }
+                ],
+                "coverImageURL": "https://i.postimg.cc/QVGczzrY/DERNIERS-AJOUTS(5).png",
+                "focusGifEnabled": false
+              }
+            ],
+            "hideTitle": false,
+            "showAllTab": true,
+            "focusGlowEnabled": true,
+            "pinToTop": false,
+            "viewMode": "TABBED_GRID"
+          }
+        }
+      },
+      "isEnabled": true
+    }
+  ]
+}
